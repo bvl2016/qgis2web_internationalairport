@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "name": "ne_airport_minor_0",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 9.0,
+        "featurecla": "Airport",
+        "type": "small",
+        "name": "Sahnewal",
+        "abbrev": "LUH",
+        "location": "terminal",
+        "gps_code": "VILD",
+        "iata_code": "LUH",
+        "wikipedia": "http://en.wikipedia.org/wiki/Sahnewal_Airport",
+        "natlscale": 8.0
+      },
+      "geometry": { "type": "Point", "coordinates": [75.95707, 30.85036] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 9.0,
+        "featurecla": "Airport",
+        "type": "small",
+        "name": "Dhamial",
+        "abbrev": "OPQS",
+        "location": "runway",
+        "gps_code": "OPQS",
+        "iata_code": null,
+        "wikipedia": "http://en.wikipedia.org/wiki/Dhamial_Army_Airbase",
+        "natlscale": 8.0
+      },
+      "geometry": { "type": "Point", "coordinates": [73.03205, 33.56141] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 8.0,
+        "featurecla": "Airport",
+        "type": "spaceport",
+        "name": "Baikonur Cosmodrome",
+        "abbrev": "BAIK",
+        "location": "approximate",
+        "gps_code": null,
+        "iata_code": null,
+        "wikipedia": "http://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+        "natlscale": 10.0
+      },
+      "geometry": { "type": "Point", "coordinates": [63.30735, 45.96357] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 8.0,
+        "featurecla": "Airport",
+        "type": "spaceport",
+        "name": "Kennedy Space Center",
+        "abbrev": "KSC",
+        "location": "approximate",
+        "gps_code": null,
+        "iata_code": null,
+        "wikipedia": "http://en.wikipedia.org/wiki/John_F._Kennedy_Space_Center",
+        "natlscale": 10.0
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.63697, 28.51637] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "scalerank": 8.0,
+        "featurecla": "Airport",
+        "type": "spaceport",
+        "name": "Centre Spatial Guyanais",
+        "abbrev": "CSG",
+        "location": "terminal",
+        "gps_code": null,
+        "iata_code": null,
+        "wikipedia": "http://en.wikipedia.org/wiki/Guiana_Space_Centre",
+        "natlscale": 10.0
+      },
+      "geometry": { "type": "Point", "coordinates": [-52.76843, 5.23941] }
+    }
+  ]
+}
